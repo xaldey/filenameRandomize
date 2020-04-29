@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 .idea
+mp3/
+*.mp3
 
 # C extensions
 *.so
